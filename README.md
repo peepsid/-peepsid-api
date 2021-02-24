@@ -1,6 +1,6 @@
-# Scatter API
+# PeepsID API
 
-A simple caching layer for generic Scatter data such as prices, tokens, and multi-blockchain account data.
+A simple caching layer for generic PeepsID data such as prices, tokens, and multi-blockchain account data.
 
 
 ### Killing stuck ports after crashing
