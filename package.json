@@ -1,12 +1,12 @@
 {
-  "name": "scatter-api",
+  "name": "peepsid-api",
   "version": "1.0.0",
-  "description": "Scatter API Service",
+  "description": "PeepsID API Service",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GetScatter/scatter-api.git"
+    "url": "https://github.com/peepsid/"
   },
-  "author": "Nathan James",
+  "author": "PeepsLabs <peepslabs@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
   "engines": {
@@ -32,8 +32,8 @@
     "cors": "^2.8.4",
     "couchbase": "^3.0.6",
     "create-hash": "^1.2.0",
-    "eosjs": "^20.0.0",
-    "eosjs-ecc": "^4.0.4",
+    "arisensdk": "^1.0.0",
+    "@arisensdk/ecc": "^1.0.0",
     "es6-promise": "^4.2.5",
     "express": "^4.16.4",
     "get-random-values": "^1.2.0",
@@ -65,9 +65,9 @@
     "**/lodash": "^4.17.12"
   },
   "bugs": {
-    "url": "https://github.com/vmasto/express-babel/issues"
+    "url": " https://github.com/peepsid/"
   },
-  "homepage": "https://github.com/vmasto/express-babel#readme",
+  "homepage": "https://peepsid.com",
   "directories": {
     "test": "test"
   }
